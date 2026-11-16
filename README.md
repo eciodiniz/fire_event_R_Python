@@ -6,6 +6,7 @@ Essa rotina permite gerar mapas de áreas de eventos de queimada usando ambos Py
 -O script R está na extensão ".R" e pode ser aberto normalmente no RStudio ou como txt em alguma outra interface. O script Python está disponível em ambas as extensões de script ".py" e "ipynb" (para Jupyter Notebook).
 
 ENGLISH:
+
 This routine allows for the generation of maps of burned-area events using both Python and R. Scripts available in Brazilian Portuguese and English.
 
 -In the PT-BR and ENG folders, you will find—in Brazilian Portuguese and English, respectively—routines for basic procedures to map areas affected by fires, using the R and Python programming languages. The objective is purely demonstrative, showing how both languages ​​can perform the same task.
