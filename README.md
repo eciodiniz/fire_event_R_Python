@@ -1,4 +1,4 @@
-# fire_event_R_Python
+# Fire Map: R & Python
 Essa rotina permite gerar mapas de áreas de eventos de queimada usando ambos Python e R. Scripts disponíveis em português brasileiro e inglês.
 
 -Nas pastas PT-BR e ENG você encontrará nas versões, respectivamente, em português brasileiro e inglês, as rotinas para procedimentos básicos para demonstrar áreas de ocorrência de queimadas usando as linguagens R e Python. O objetivo é meramente demonstrativo sobre como ambas as linguagens desempenham a mesma tarefa. 
